@@ -1,0 +1,6 @@
+Flask
+pinecone_text.sparse
+langchain_community
+pinecone
+langchain_openai
+vercel-flask
